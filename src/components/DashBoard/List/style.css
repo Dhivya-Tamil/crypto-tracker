@@ -50,5 +50,12 @@
     .mobile-td-mkt{
         display: block;
     }
-    
+    .price-chip,.td-total-volume{
+        display: none;
+    }
+    .list-row{
+        gap: 0.5rem;
+        margin:0rem;
+        border-radius: 1rem;
+    }
 }
