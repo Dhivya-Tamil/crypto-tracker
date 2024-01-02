@@ -8,7 +8,7 @@ function CoinInfo({heading, desc}) {
   return (
     <div className="grey-wrapper">
     <h2 className="coin-info-heading">{heading}</h2>
-    {desc.length > 350 ? 
+    {desc.length > 200 ? 
     (
       <p
       onClick={() => setFlag(!flag)}

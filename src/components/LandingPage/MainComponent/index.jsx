@@ -7,7 +7,7 @@ import { motion } from 'framer-motion';
 
 function MainComponent() {
   return (
-    <div className='flex-info'>
+    <div className='flex-info' style={{height:"100px"}}>
         <div className='left-component'>
             <motion.h1 className='track-crypto-heading'
              initial={{ opacity: 0, y: 50}}

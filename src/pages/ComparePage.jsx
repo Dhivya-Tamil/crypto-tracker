@@ -107,11 +107,11 @@ function ComparePage() {
           <div className="grey-wrapper">
             <List coin={crypto2Data} />
           </div>
+          <div className="grey-wrapper">
           <TogglePriceTypes
               handlePriceTypeChange={handlePriceTypeChange}
               priceType={priceType}
             />
-          <div className="grey-wrapper">
             <LineChart chartData={chartData} 
              priceType={priceType} 
              multiAxis={true}/>

@@ -5,7 +5,7 @@ import "./style.css";
 function Loader() {
   return (
     <div className='loader-container'>
-        <CircularProgress />
+        <CircularProgress style={{color:"#fc950e"}}/>
     </div>
   )
 }

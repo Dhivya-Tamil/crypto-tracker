@@ -20,7 +20,7 @@ export default function TabsComponent({coins}) {
   const theme = createTheme({
     palette: {
       primary: {
-        main: "#3a80e9",
+        main: "#fc950e",
       }
     }
   })

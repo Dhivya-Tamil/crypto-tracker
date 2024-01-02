@@ -3,7 +3,7 @@
 :root{
     --white: #e3e3e3;
     --black: #111;
-    --blue: #3a8de9;
+    --blue: #e0840b;
     --grey: #888;
     --darkgrey: #1b1b1b;
     --green: #61c96f;
@@ -16,7 +16,6 @@ body{
     margin: 0;
     background-color: var(--black);
     color: var(--white);
-    /* height: 200vh; */
     font-family: 'Inter', sans-serif;
 }
 

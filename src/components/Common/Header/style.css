@@ -4,8 +4,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5rem 3rem;
-    background-color: var(--black);
+    padding: 0.5rem 0.5rem;
+    background-color: var(--blue);
     /* z-index: 100 !important; */
 }
 .logo{

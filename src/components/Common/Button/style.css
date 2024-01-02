@@ -30,6 +30,7 @@
 }
 
 .outline-btn:hover{
-   background-color: var(--blue);
+   background-color: var(--black);
+   border: 2.5px solid var(--white);
     transition: all 0.3s;
 }
